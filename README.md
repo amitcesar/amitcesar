@@ -10,7 +10,6 @@ About Me
   
 - 💻 Frontend Developer :)
 - 📱 I’m currently learning; React Native;
-- 📚 Always improving my knowledge
 - 🚀 Currently working as a front-end in a marketplace called 'Obapet'
 - 💬 Ask me about games, series and movies or anything!
   <!-- - 🔭 I'm currently looking for better opportunities! -->
@@ -46,7 +45,7 @@ About Me
 **amitcesar/amitcesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📚 Always improving my knowledge
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
