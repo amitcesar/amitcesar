@@ -10,7 +10,6 @@ About Me
   
 - 💻 Frontend Developer :)
 - 📱 I’m currently learning; React Native;
-- 🚀 Currently working as a front-end in a marketplace called 'Obapet'
 - 💬 Ask me about games, series and movies or anything!
   <!-- - 🔭 I'm currently looking for better opportunities! -->
 </P>
