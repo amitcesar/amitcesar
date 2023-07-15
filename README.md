@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Amit C <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/302/flag-brazil_1f1e7-1f1f7.png" width="50"> </h1>
+<h1> Hi there, I'm Amit Cesar <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/302/flag-brazil_1f1e7-1f1f7.png" width="50"> </h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-16171A?logo=linkedin&style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/amitcesar/)](https://www.linkedin.com/in/amitcesar/)
@@ -6,11 +6,11 @@
 
 <P>
 
-About Me
+About Me:
   
 - 💻 Frontend Developer :)
-- 📱 I’m currently learning; React Native;
-- 💬 Ask me about games, series and movies or anything!
+- 📱 I’m currently learning; NextJS and/or more about JAMStack;
+  <!-- 💬 Ask me about games, series and movies or anything! -->
   <!-- - 🔭 I'm currently looking for better opportunities! -->
 </P>
 
