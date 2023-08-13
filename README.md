@@ -2,7 +2,7 @@
 
 **About me 👨‍💻 :**
 
-I'm Amit Cesar and I live in Brazil. I'm currently learning about Jamstack and I graduate in 2020 with a bachelors in Computer Science.
+I'm Amit Cesar and I live in Brazil. I'm currently learning about react native and I graduate in 2020 with a bachelors in Computer Science.
 
 ### Contact me  
 
