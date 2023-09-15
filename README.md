@@ -1,8 +1,10 @@
-## Helloo...  🏆🇧🇷 
+## Greetings!   🏆🇧🇷 
 
-**About me 👨‍💻 :**
+**About Me:**
 
-I'm Amit Cesar and I live in Brazil. I'm currently learning about react native and I graduate in 2020 with a bachelors in Computer Science.
+I'm Amit Cesar and,
+I live in Brazil. I am a passionate developer with a keen interest in the dynamic realm of mobile app development, particularly in the world of React Native. My journey began as a Front-end Developer, but my enthusiasm for crafting exceptional mobile experiences has led me to specialize in React Native, a passion that dates back to my college years when I pursued my Bachelor's degree in Computer Science (2016 - 2020).
+
 
 ### Contact me  
 
