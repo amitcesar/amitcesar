@@ -1,6 +1,6 @@
-# 👋 Hey! I'm Amit! 
+# 👋 Hi there, I'm Amit!
 
-My name is Amit Cesar, and I'm a **Mobile Developer**.
+ I'm a **Mobile Developer** :)
 
 - **React Native**
 - **Kotlin** (including **Kotlin Multiplatform - KMP**)
