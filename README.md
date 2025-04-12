@@ -32,7 +32,7 @@ I regularly use tools like **Android Studio**, **VS Code**, **Trello**, **Slack*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-16171A?logo=linkedin&style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/amitcesar/)](https://www.linkedin.com/in/amitcesar/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&style=for-the-badge&logoColor=white&link=mailto:amitcesar27@gmail.com)](mailto:amitcesar27@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/whatsapp-a?color=black&logo=whatsapp)](https://wa.me/+5581995980946)
+
 
 ---
 
