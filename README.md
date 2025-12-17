@@ -8,7 +8,7 @@
 
 Currently, I'm learning **native Android development**.
 
-I regularly use tools like **Android Studio**, **Slack** and **GitHub**, and I'm continuously learning through personal projects and community engagement.
+I regularly use tools like **Android Studio**, **IntelliJ** and **GitHub**, and I'm continuously learning through personal projects and community engagement.
 
 ---
 
